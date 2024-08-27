@@ -1,0 +1,17 @@
+{
+    "name": "Shopping App",
+    "short_name": "Shopping App",
+    "icons": [
+        {
+            "src": "./assets/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable" 
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "backgroun_color": "#FFFFFF",
+    "start_url": "/shopping-app/",
+    "display": "standalone",
+    "orentation": "portrait"
+}
