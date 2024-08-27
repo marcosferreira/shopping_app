@@ -11,7 +11,7 @@
     ],
     "theme_color": "#FFFFFF",
     "backgroun_color": "#FFFFFF",
-    "start_url": "/shopping-app/",
+    "start_url": "https://marcosferreira.github.io/shopping-app/",
     "display": "standalone",
     "orentation": "portrait"
 }
